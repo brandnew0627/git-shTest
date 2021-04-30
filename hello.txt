@@ -6,4 +6,5 @@ hello quan! hello git!
 hello quan! hello git!
 hello quan! hello git!
 version 2
-updating from github for the first time.
+has bean updated from github for the first time.
+ssh authentication.
